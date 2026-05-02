@@ -38,20 +38,28 @@ I'm an Embedded Systems & IoT Engineer passionate about building real-world smar
 ![Git](https://img.shields.io/badge/-Git-333333?style=flat&logo=git)
 ![Linux](https://img.shields.io/badge/-Linux-333333?style=flat&logo=linux)
 ![GitHub](https://img.shields.io/badge/-GitHub-333333?style=flat&logo=github)
+
+- 📡 &nbsp;
 ![MQTT](https://img.shields.io/badge/-MQTT-333333?style=flat)
+![CoAP](https://img.shields.io/badge/-CoAP-333333?style=flat)
 ![FreeRTOS](https://img.shields.io/badge/-FreeRTOS-333333?style=flat)
 
 - 🔧 &nbsp;
 ![VS Code](https://img.shields.io/badge/-VS%20Code-333333?style=flat&logo=visual-studio-code)
-![Altium Designer](https://img.shields.io/badge/-Altium-333333?style=flat)
 ![Arduino](https://img.shields.io/badge/-Arduino-333333?style=flat&logo=arduino)
+![Altium Designer](https://img.shields.io/badge/-Altium%20Designer-333333?style=flat)
+
+- 🧠 &nbsp;
+![STM32CubeIDE](https://img.shields.io/badge/-STM32CubeIDE-333333?style=flat)
+![MPLAB X](https://img.shields.io/badge/-MPLAB%20X-333333?style=flat)
+![mikroC](https://img.shields.io/badge/-mikroC-333333?style=flat)
 
 ---
 
 ### ✨ Visitors
 
 <p align="left"> 
-  <img src="https://komarev.com/ghpvc/?username=Abdulrahman" alt="Abdulrahman" /> 
+  <img src="https://komarev.com/ghpvc/?username=Abdelrahman" alt="Abdelrahman" /> 
 </p>
 
 ---
