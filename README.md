@@ -12,10 +12,10 @@
 <!-- Left Small Banner -->
 <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="280" align="right" alt="Coding Banner" style="margin-right:100px;"/>
 
-I am an Embedded Systems & IoT Engineer passionate about designing and developing real-world embedded and smart systems.
-I specialize in building smart devices and embedded solutions based on ESP32, ARM, and AVR platforms, with strong integration in IoT technologies and OTA (Over-The-Air) systems for remote updates and scalability.
-I also design and deliver custom smart hardware solutions, including smart home systems and smart agriculture systems, transforming ideas into fully functional, production-ready embedded products.
-My focus is on providing end-to-end smart board manufacturing and IoT-based solutions that bridge the gap between hardware and intelligent connected systems.
+  I am an Embedded Systems & IoT Engineer passionate about designing and developing real-world embedded and smart systems.
+  I specialize in building smart devices and embedded solutions based on ESP32, ARM, and AVR platforms, with strong integration in IoT technologies and OTA (Over-   The-Air) systems for remote updates and scalability.
+  I also design and deliver custom smart hardware solutions, including smart home systems and smart agriculture systems, transforming ideas into fully functional,   production-ready embedded products.
+  My focus is on providing end-to-end smart board manufacturing and IoT-based solutions that bridge the gap between hardware and intelligent connected systems.
 
 - 🎓 Graduated from Faculty of Engineering (Computer Engineering) with Very Good with Honors (Top 8, 82.87%)
 - 💼 Teaching Assistant | Embedded Software & IoT Engineer @ Nexia  
