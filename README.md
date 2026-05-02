@@ -115,7 +115,6 @@ I am an Embedded Systems & IoT Engineer passionate about designing and developin
 
 
 ---
-
-<p align="center">
-  <img src="https://media.giphy.com/media/26tn33aiTi1jkl6H6/giphy.gif" width="650"/>
+<<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?color=36BCF7&center=true&vCenter=true&speed=40&pause=1200&lines=Embedded+Software+Engineer;Founder+%26+CEO+of+TechZone+%7C+Embedded+Courses+%26+Products;IoT+Developer;ESP32+%7C+AVR+%7C+ARM+Developer;" />
 </p>
