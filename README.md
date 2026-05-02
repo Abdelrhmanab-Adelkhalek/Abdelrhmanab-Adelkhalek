@@ -1,72 +1,91 @@
-<p align="center"><img src="https://i.imgur.com/A6bWGFl.gif"/></p>
+<!-- Animated Header -->
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=26&duration=3000&color=38B2AC&center=true&vCenter=true&repeat=false&width=650&height=60&lines=👋+Hi,+I'm+Abdelrahman+Abdelkhalek;⚙️+Embedded+Systems+%26+IoT+Engineer;🚀+ESP32+%7C+AVR+%7C+ARM+%7C+FreeRTOS" alt="Typing Animation">
+</p>
 
-<h2> Hey there! I'm Abdelrhman Abdelkhalek👨‍💻</h2>
+<!-- Animated Banner -->
+<p align="center">
+  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="85%" alt="Embedded Banner">
+</p>
 
-<img width="200" align="right" alt="Embedded" src="https://user-images.githubusercontent.com/48678280/88862734-4903af80-d201-11ea-968b-9c939d88a37d.gif" />
-
-<h3> 👨🏻‍💻 &nbsp;About Me </h3>
-
-I am an Embedded Systems & IoT Engineer passionate about designing and developing real-world embedded and smart systems.
-
-- 🎓 Graduated from Faculty of Engineering (Computer Engineering) with Very Good with Honors (Top 8, 82.87%)
-- 💼 Teaching Assistant |  Embedded Software & IoT Engineer @ Nexia
-- 🌱 Focused on Embedded Systems, IoT, Embedded Linux, FreeRTOS, and Automotive Software
-- ⚙️ Experienced in ESP32, AVR, ARM, and industrial embedded system development
+<p align="center">
+  <em>Building real-world embedded systems, firmware, and IoT solutions ⚡</em>
+</p>
 
 ---
 
-<h3> 📫 &nbsp;How to reach me:</h3>
+## 👨‍💻 About Me
 
-<p>
+- 🎓 Graduated from Faculty of Engineering (Computer Engineering)  
+- 🏆 Very Good with Honors (Top 8 in class - 82.87%)  
+- 💼 Embedded Software Engineer | Teaching Assistant @ Nexia  
+- 🌱 Focused on Embedded Systems, IoT, Embedded Linux, FreeRTOS, Automotive  
+- ⚙️ Experience in ESP32, AVR, ARM, and industrial embedded systems  
+
+---
+
+## 📫 Contact Me
+
+<p align="center">
   <a href="https://www.linkedin.com/in/abdelrahman-abdelkhalek/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-Abdelrahman-blue?style=for-the-badge&logo=linkedin">
+    <img src="https://img.shields.io/badge/LinkedIn-Abdelrahman-0A66C2?style=for-the-badge&logo=linkedin">
   </a>
 </p>
 
 ---
 
-<h3> 🛠️ &nbsp;Languages and Tools:</h3>
+## 🛠️ Tech Stack
 
-- 💻 &nbsp;
-![C](https://img.shields.io/badge/-C-black?style=flat-square&logo=c)
-![C++](https://img.shields.io/badge/-C++-333333?style=flat&logo=C%2B%2B&logoColor=00599C)
-![Python](https://img.shields.io/badge/-Python-333333?style=flat&logo=python)
-![Go](https://img.shields.io/badge/-Go-333333?style=flat&logo=go)
+<p align="center">
+  <img src="https://img.shields.io/badge/C-black?style=for-the-badge&logo=c" height="28">
+  <img src="https://img.shields.io/badge/C++-333333?style=for-the-badge&logo=c%2B%2B" height="28">
+  <img src="https://img.shields.io/badge/Python-333333?style=for-the-badge&logo=python" height="28">
+  <img src="https://img.shields.io/badge/Go-333333?style=for-the-badge&logo=go" height="28">
+</p>
 
-- ⚙️ &nbsp;
-![Git](https://img.shields.io/badge/-Git-333333?style=flat&logo=git)
-![Linux](https://img.shields.io/badge/-Linux-333333?style=flat&logo=linux)
-![GitHub](https://img.shields.io/badge/-GitHub-333333?style=flat&logo=github)
+<p align="center">
+  <img src="https://img.shields.io/badge/ESP32-333333?style=for-the-badge" height="28">
+  <img src="https://img.shields.io/badge/AVR-333333?style=for-the-badge" height="28">
+  <img src="https://img.shields.io/badge/ARM-333333?style=for-the-badge" height="28">
+  <img src="https://img.shields.io/badge/FreeRTOS-333333?style=for-the-badge" height="28">
+</p>
 
-- 📡 &nbsp;
-![MQTT](https://img.shields.io/badge/-MQTT-333333?style=flat)
-![CoAP](https://img.shields.io/badge/-CoAP-333333?style=flat)
-![FreeRTOS](https://img.shields.io/badge/-FreeRTOS-333333?style=flat)
+<p align="center">
+  <img src="https://img.shields.io/badge/MQTT-333333?style=for-the-badge">
+  <img src="https://img.shields.io/badge/CoAP-333333?style=for-the-badge">
+  <img src="https://img.shields.io/badge/IoT-333333?style=for-the-badge">
+</p>
 
-- 🔧 &nbsp;
-![VS Code](https://img.shields.io/badge/-VS%20Code-333333?style=flat&logo=visual-studio-code)
-![Arduino](https://img.shields.io/badge/-Arduino-333333?style=flat&logo=arduino)
-
-
-- 🧠 &nbsp;
-![STM32CubeIDE](https://img.shields.io/badge/-STM32CubeIDE-333333?style=flat)
-![MPLAB X](https://img.shields.io/badge/-MPLAB%20X-333333?style=flat)
-![mikroC](https://img.shields.io/badge/-mikroC-333333?style=flat)
-
----
-
-### ✨ Visitors
-
-<p align="left"> 
-  <img src="https://komarev.com/ghpvc/?username=Abdelrahman" alt="Abdelrahman" /> 
+<p align="center">
+  <img src="https://img.shields.io/badge/STM32CubeIDE-333333?style=for-the-badge">
+  <img src="https://img.shields.io/badge/MPLAB_X-333333?style=for-the-badge">
+  <img src="https://img.shields.io/badge/mikroC-333333?style=for-the-badge">
 </p>
 
 ---
 
-### 📊 Profile Stats
+## 📊 GitHub Stats
 
-[![GitHub stats](https://github-readme-stats.vercel.app/api?username=Abdulrahman&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515)](https://github.com/Abdulrahman)
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Abdulrahman-Abdelkhalek&show_icons=true&theme=radical" height="160">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Abdulrahman-Abdelkhalek&layout=compact&theme=radical" height="160">
+</p>
 
 ---
 
-<img src="https://imgur.com/rilHVxA.png"/>
+## 🔥 Embedded Code
+
+```c
+#include <stdio.h>
+
+int main(void)
+{
+    while(1)
+    {
+        // Read sensors (ADC / I2C / SPI)
+        // Process data (Filtering / RTOS tasks)
+        // Control actuators (GPIO / PWM)
+
+        printf("Embedded system running...\n");
+    }
+}
