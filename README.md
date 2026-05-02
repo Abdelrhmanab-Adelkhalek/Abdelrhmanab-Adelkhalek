@@ -1,6 +1,6 @@
 <p align="center"><img src="https://i.imgur.com/A6bWGFl.gif"/></p>
 
-<h2> Hey there! I'm Abdulrahman 👨‍💻</h2>
+<h2> Hey there! I'm Abdelrhman Abdelkhalek👨‍💻</h2>
 
 <img width="200" align="right" alt="Embedded" src="https://user-images.githubusercontent.com/48678280/88862734-4903af80-d201-11ea-968b-9c939d88a37d.gif" />
 
@@ -8,7 +8,7 @@
 
 I'm an Embedded Systems & IoT Engineer passionate about building real-world smart systems and firmware solutions.
 
-- 🎓 &nbsp; Graduated from: Faculty of Engineering (Computer Engineering) - Misr Higher Institute of Engineering and Technology  
+- 🎓 &nbsp; Graduated from: Faculty of Engineering (Computer Engineering) 
 - Grade: Very Good with Honors (Top 8 in class - 82.87%)  
 - 💼 &nbsp; Working as: Embedded Software Engineer | Teaching Assistant @ Nexia  
 - 🌱 &nbsp; Learning more about Embedded Systems, IoT, Embedded Linux, FreeRTOS, and Automotive Software  
@@ -47,7 +47,7 @@ I'm an Embedded Systems & IoT Engineer passionate about building real-world smar
 - 🔧 &nbsp;
 ![VS Code](https://img.shields.io/badge/-VS%20Code-333333?style=flat&logo=visual-studio-code)
 ![Arduino](https://img.shields.io/badge/-Arduino-333333?style=flat&logo=arduino)
-![Altium Designer](https://img.shields.io/badge/-Altium%20Designer-333333?style=flat)
+
 
 - 🧠 &nbsp;
 ![STM32CubeIDE](https://img.shields.io/badge/-STM32CubeIDE-333333?style=flat)
