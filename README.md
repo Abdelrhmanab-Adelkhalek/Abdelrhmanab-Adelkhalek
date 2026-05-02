@@ -2,12 +2,15 @@
 
 <!-- Animated Name + Title -->
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=26&duration=3000&color=38B2AC&center=true&vCenter=true&repeat=false&width=750&height=60&lines=Hey+there+,+I+am+Abdelrhman+Abdelkhalek👨‍💻;Embedded+Software+and+IoT+Engineer" alt="Typing Animation">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=26&duration=3000&color=38B2AC&center=true&vCenter=true&repeat=false&width=750&height=60&lines=Hey+there,+I+am+Abdelrhman+Abdelkhalek;Embedded+Software+and+IoT+Engineer" alt="Typing Animation">
 </p>
 
 <img width="200" align="right" alt="Embedded" src="https://user-images.githubusercontent.com/48678280/88862734-4903af80-d201-11ea-968b-9c939d88a37d.gif" />
 
 <h3> 👨🏻‍💻 &nbsp;About Me </h3>
+
+<!-- Left Small Banner -->
+<img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="280" align="right" alt="Coding Banner" style="margin-right:20px;"/>
 
 I am an Embedded Systems & IoT Engineer passionate about designing and developing real-world embedded and smart systems.
 
@@ -15,6 +18,8 @@ I am an Embedded Systems & IoT Engineer passionate about designing and developin
 - 💼 Teaching Assistant | Embedded Software & IoT Engineer @ Nexia
 - 🌱 Focused on Embedded Systems, IoT, Embedded Linux, FreeRTOS, and Automotive Software
 - ⚙️ Experienced in ESP32, AVR, ARM, and industrial embedded system development
+
+<br clear="all"/>
 
 ---
 
@@ -73,4 +78,4 @@ I am an Embedded Systems & IoT Engineer passionate about designing and developin
 
 <p align="center">
   <img src="https://media.giphy.com/media/26tn33aiTi1jkl6H6/giphy.gif" width="650"/>
-</p
+</p>
