@@ -37,6 +37,11 @@ I am an Embedded Systems & IoT Engineer passionate about designing and developin
     <img src="https://img.shields.io/badge/LinkedIn-Abdelrahman-blue?style=for-the-badge&logo=linkedin">
   </a>
 </p>
+<p>
+  <a href="https://www.facebook.com/abdelrhman.ali.1253" target="_blank">
+    <img src="https://img.shields.io/badge/facebook-Abdelrahman-blue?style=for-the-badge&logo=facebook">
+  </a>
+</p>
 
 ---
 
