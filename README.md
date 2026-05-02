@@ -18,15 +18,27 @@ I am an Embedded Systems & IoT Engineer passionate about designing and developin
 - 💼 Teaching Assistant | Embedded Software & IoT Engineer @ Nexia  
 - 🌱 Focused on Embedded Systems, IoT, Embedded Linux, FreeRTOS, and Automotive Software  
 - ⚙️ Experienced in ESP32, AVR, ARM, and industrial embedded system development
-- 🚀 Founder of Tech Zone
-   <br>
-  
-   <a href="https://www.facebook.com/profile.php?id=100089030025236" target="_blank">
-   <img src="https://img.shields.io/badge/Tech%20Zone-Founder-blue?style=for-the-badge&logo=facebook" />
-   </a>
-    <a href=" https://www.tiktok.com/@techzone19" target="_blank">
-   <img src="https://img.shields.io/badge/Tech%20Zone-Founder-blue?style=for-the-badge&logo=tiktok" />
-   </a>
+- 🚀 Founder of TechZone
+  <br>
+<!-- Facebook -->
+<a href="https://www.facebook.com/profile.php?id=100089030025236" target="_blank">
+  <img src="https://img.shields.io/badge/TechZone-Facebook-blue?style=for-the-badge&logo=facebook" />
+</a>
+
+<!-- TikTok -->
+<a href="https://www.tiktok.com/@techzone19" target="_blank">
+  <img src="https://img.shields.io/badge/TechZone-TikTok-black?style=for-the-badge&logo=tiktok" />
+</a>
+
+<!-- Instagram -->
+<a href="https://www.instagram.com/techzonecourse" target="_blank">
+  <img src="https://img.shields.io/badge/TechZone-Instagram-E4405F?style=for-the-badge&logo=instagram" />
+</a>
+
+<!-- Email -->
+<a href="mailto:techzonecourse@gmail.com">
+  <img src="https://img.shields.io/badge/Email-TechZone-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+</a>
 
 
 <br clear="all"/>
@@ -37,12 +49,15 @@ I am an Embedded Systems & IoT Engineer passionate about designing and developin
 
 <p>
   <a href="https://www.linkedin.com/in/abdelrahman-abdelkhalek/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-Abdelrahman-blue?style=for-the-badge&logo=linkedin">
+    <img src="https://img.shields.io/badge/Abdelrahman-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white">
   </a>
-</p>
-<p>
+
   <a href="https://www.facebook.com/abdelrhman.ali.1253" target="_blank">
-    <img src="https://img.shields.io/badge/facebook-Abdelrahman-blue?style=for-the-badge&logo=facebook">
+    <img src="https://img.shields.io/badge/Abdelrahman-Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white">
+  </a>
+
+  <a href="mailto:engabdelrhman56@gmail.com">
+    <img src="https://img.shields.io/badge/Abdelrahman-Email-D14836?style=for-the-badge&logo=gmail&logoColor=white">
   </a>
 </p>
 
