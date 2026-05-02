@@ -1,8 +1,8 @@
 <p align="center"><img src="https://i.imgur.com/A6bWGFl.gif"/></p>
 
-<!-- Animated Name + Title -->
+<!-- Animated Name + Title (Loop Enabled) -->
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=26&duration=3000&color=38B2AC&center=true&vCenter=true&repeat=false&width=750&height=60&lines=Hey+there,+I+am+Abdelrhman+Abdelkhalek;Embedded+Software+and+IoT+Engineer" alt="Typing Animation">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=26&duration=3000&color=38B2AC&center=true&vCenter=true&repeat=true&width=750&height=60&lines=👋Hey+there,+I+am+Abdelrhman+Abdelkhalek👨🏻‍💻;Embedded+Software+and+IoT+Engineer" alt="Typing Animation">
 </p>
 
 <img width="200" align="right" alt="Embedded" src="https://user-images.githubusercontent.com/48678280/88862734-4903af80-d201-11ea-968b-9c939d88a37d.gif" />
@@ -15,9 +15,16 @@
 I am an Embedded Systems & IoT Engineer passionate about designing and developing real-world embedded and smart systems.
 
 - 🎓 Graduated from Faculty of Engineering (Computer Engineering) with Very Good with Honors (Top 8, 82.87%)
-- 💼 Teaching Assistant | Embedded Software & IoT Engineer @ Nexia
-- 🌱 Focused on Embedded Systems, IoT, Embedded Linux, FreeRTOS, and Automotive Software
-- ⚙️ Experienced in ESP32, AVR, ARM, and industrial embedded system development
+- 💼 Teaching Assistant | Embedded Software & IoT Engineer @ Nexia  
+- 🌱 Focused on Embedded Systems, IoT, Embedded Linux, FreeRTOS, and Automotive Software  
+- ⚙️ Experienced in ESP32, AVR, ARM, and industrial embedded system development  
+
+<br>
+
+🚀 Founder of Tech Zone  
+<a href="https://www.facebook.com/profile.php?id=100089030025236" target="_blank">
+  <img src="https://img.shields.io/badge/Tech%20Zone-Founder-blue?style=for-the-badge&logo=facebook" />
+</a>
 
 <br clear="all"/>
 
