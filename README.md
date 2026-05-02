@@ -118,6 +118,6 @@
 
 
 ---
-<<p align="center">
+<p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?color=36BCF7&center=true&vCenter=true&speed=40&pause=1200&lines=Embedded+Software+Engineer;Founder+%26+CEO+of+TechZone+%7C+Embedded+Courses+%26+Products;IoT+Developer;ESP32+%7C+AVR+%7C+ARM+Developer;" />
 </p>
