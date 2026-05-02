@@ -17,14 +17,14 @@ I am an Embedded Systems & IoT Engineer passionate about designing and developin
 - 🎓 Graduated from Faculty of Engineering (Computer Engineering) with Very Good with Honors (Top 8, 82.87%)
 - 💼 Teaching Assistant | Embedded Software & IoT Engineer @ Nexia  
 - 🌱 Focused on Embedded Systems, IoT, Embedded Linux, FreeRTOS, and Automotive Software  
-- ⚙️ Experienced in ESP32, AVR, ARM, and industrial embedded system development  
+- ⚙️ Experienced in ESP32, AVR, ARM, and industrial embedded system development
+- 🚀 Founder of Tech Zone
+   <br>
+   
+   <a href="https://www.facebook.com/profile.php?id=100089030025236" target="_blank">
+   <img src="https://img.shields.io/badge/Tech%20Zone-Founder-blue?style=for-the-badge&logo=facebook" />
+   </a>
 
-<br>
-
-🚀 Founder of Tech Zone  
-<a href="https://www.facebook.com/profile.php?id=100089030025236" target="_blank">
-  <img src="https://img.shields.io/badge/Tech%20Zone-Founder-blue?style=for-the-badge&logo=facebook" />
-</a>
 
 <br clear="all"/>
 
