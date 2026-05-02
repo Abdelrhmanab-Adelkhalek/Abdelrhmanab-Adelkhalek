@@ -20,9 +20,12 @@ I am an Embedded Systems & IoT Engineer passionate about designing and developin
 - ⚙️ Experienced in ESP32, AVR, ARM, and industrial embedded system development
 - 🚀 Founder of Tech Zone
    <br>
-   
+  
    <a href="https://www.facebook.com/profile.php?id=100089030025236" target="_blank">
    <img src="https://img.shields.io/badge/Tech%20Zone-Founder-blue?style=for-the-badge&logo=facebook" />
+   </a>
+    <a href=" https://www.tiktok.com/@techzone19" target="_blank">
+   <img src="https://img.shields.io/badge/Tech%20Zone-Founder-blue?style=for-the-badge&logo=tiktok" />
    </a>
 
 
