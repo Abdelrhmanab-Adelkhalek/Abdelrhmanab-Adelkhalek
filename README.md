@@ -10,7 +10,7 @@
 <h3> 👨🏻‍💻 &nbsp;About Me </h3>
 
 <!-- Left Small Banner -->
-<img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="280" align="right" alt="Coding Banner" style="margin-right:20px;"/>
+<img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="280" align="right" alt="Coding Banner" style="margin-right:100px;"/>
 
 I am an Embedded Systems & IoT Engineer passionate about designing and developing real-world embedded and smart systems.
 
@@ -84,7 +84,17 @@ I am an Embedded Systems & IoT Engineer passionate about designing and developin
 
 ### 📊 Profile Stats
 
-[![GitHub stats](https://github-readme-stats.vercel.app/api?username=Abdulrahman&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515)](https://github.com/Abdulrahman)
+
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Abdelrhmanab-Adelkhalek&theme=github_dark"/>
+</p>
+
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Abdelrhmanab-Adelkhalek&theme=github_dark"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Abdelrhmanab-Adelkhalek&theme=github_dark&utcOffset=2"/>
+</p>
+
+
 
 ---
 
