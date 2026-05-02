@@ -6,13 +6,12 @@
 
 <h3> 👨🏻‍💻 &nbsp;About Me </h3>
 
-I'm an Embedded Systems & IoT Engineer passionate about building real-world smart systems and firmware solutions.
+I am an Embedded Systems & IoT Engineer passionate about designing and developing real-world embedded and smart systems.
 
-- 🎓 &nbsp; Graduated from: Faculty of Engineering (Computer Engineering) 
-- Grade: Very Good with Honors (Top 8 in class - 82.87%)  
-- 💼 &nbsp; Working as: Embedded Software Engineer | Teaching Assistant @ Nexia  
-- 🌱 &nbsp; Learning more about Embedded Systems, IoT, Embedded Linux, FreeRTOS, and Automotive Software  
-- ⚙️ &nbsp; Experienced in ESP32, AVR, ARM, and industrial embedded systems development  
+- 🎓 Graduated from Faculty of Engineering (Computer Engineering) with Very Good with Honors (Top 8, 82.87%)
+- 💼 Teaching Assistant |  Embedded Software & IoT Engineer @ Nexia
+- 🌱 Focused on Embedded Systems, IoT, Embedded Linux, FreeRTOS, and Automotive Software
+- ⚙️ Experienced in ESP32, AVR, ARM, and industrial embedded system development
 
 ---
 
